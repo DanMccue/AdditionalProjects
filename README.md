@@ -1,4 +1,4 @@
-Spelling Bee Game Visual and Description
+# Spelling Bee Game Visual and Description
 
 <img width="549" alt="IMG_9062" src="https://github.com/user-attachments/assets/bcc97cd1-3328-4f91-bf82-f385873e2a09" />
 
